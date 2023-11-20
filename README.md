@@ -11,6 +11,6 @@ Skill, SERVICES, PORTFOLIO, Blog
 
 - I used  HTML, CSS, Bootstrap 
 - The website is  responsive and suitable for all types of devices like Desktop, Tablet, and phones
--and use animation to shake an image ^_^.
--used Flex-box to layout the elements
+- used animation
+- used Flex-box to layout the elements
 - most of my codes used Bootstrap
